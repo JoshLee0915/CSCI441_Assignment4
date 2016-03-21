@@ -1,0 +1,16 @@
+﻿Build started 3/20/2016 5:59:16 PM.
+     1>Project "f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\CSCI441_Assignment4\CSCI441_Assignment4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Windows\Programs\IDE\VS2015\VC\bin\CL.exe /c /I"f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\packages\glm.0.9.7.0\build\native\../..//build/native/include/" /I"f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/include/" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\documents\visual studio 2015\projects\csci441_assignment4\csci441_assignment4\main.cpp(161): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>f:\documents\visual studio 2015\projects\csci441_assignment4\csci441_assignment4\main.cpp(162): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+       Link:
+         E:\Windows\Programs\IDE\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\Debug\CSCI441_Assignment4.exe" /INCREMENTAL /NOLOGO "f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glew32.lib" "f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\glfw3dll.lib" "f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\packages\nupengl.core.0.1.0.1\build\native\../..//build/native/lib/Win32\freeglut.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\Debug\CSCI441_Assignment4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\Debug\CSCI441_Assignment4.lib" /MACHINE:X86 Debug\main.obj
+         Debug\OpenGLShaderLoader.obj
+         CSCI441_Assignment4.vcxproj -> f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\Debug\CSCI441_Assignment4.exe
+     1>Done Building Project "f:\documents\visual studio 2015\Projects\CSCI441_Assignment4\CSCI441_Assignment4\CSCI441_Assignment4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.34
